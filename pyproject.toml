@@ -1,6 +1,6 @@
 [project]
 name = "semantic-cache"
-version = "0.1.0"
+version = "0.1.1"
 description = "Semantic Caching on python functions"
 authors = [{ name = "Rajaniraiyn R", email = "rajaniraiyn@gmail.com" }]
 readme = "README.md"
